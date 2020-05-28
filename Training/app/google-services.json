@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901977936351",
+    "firebase_url": "https://calculator-9b152.firebaseio.com",
+    "project_id": "calculator-9b152",
+    "storage_bucket": "calculator-9b152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901977936351:android:e644d9e2c495b120",
+        "android_client_info": {
+          "package_name": "com.example.training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901977936351-bs6fnafs0se7hlbfcd54lelg61vivfnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.training",
+            "certificate_hash": "39e9947ef1a4cfc8bdc466e8438bbdb6083976db"
+          }
+        },
+        {
+          "client_id": "901977936351-bcl66gin52t4ehquuunid6ksgbgjd02a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7V6rcV_hzGRAXvD0vxGIfeV7d1KKI7Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901977936351-bcl66gin52t4ehquuunid6ksgbgjd02a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
