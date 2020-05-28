@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework6_bottomNavi</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_naver">Naver</string>
+    <string name="title_daum">Daum</string>
+    <string name="title_google">Google</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="버튼 1"
+        android:textSize="30dp"
+        android:background="#D0E4B0"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="여긴 텍스트뷰입니다."
+        android:paddingTop="60dp"
+        android:paddingBottom="60dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#007EA3"
+        android:textSize="25dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:paddingTop="80dp"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="버튼 2"
+            android:textSize="30dp"/>
+    </LinearLayout>
+
+</LinearLayout>

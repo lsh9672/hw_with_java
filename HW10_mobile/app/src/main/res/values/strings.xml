@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HW10_mobile</string>
+
+
+    <string-array name="movie_name">
+        <item>신세계</item>
+        <item>존 윅</item>
+        <item>인셉션</item>
+
+    </string-array>
+</resources>

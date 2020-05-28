@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText/>
+    <EditText/>
+    <TableRow>
+        <Button
+            android:layout_weight="1"
+            android:text="0" />
+        <Button
+            android:layout_weight="1"
+            android:text="1"/>
+        <Button
+            android:layout_weight="1"
+            android:text="2"/>
+        <Button
+            android:layout_weight="1"
+            android:text="3"/>
+        <Button
+            android:layout_weight="1"
+            android:text="4"/>
+    </TableRow>
+    <TableRow>
+        <Button
+            android:layout_weight="1"
+            android:text="5"/>
+        <Button
+            android:layout_weight="1"
+            android:text="6"/>
+        <Button
+            android:layout_weight="1"
+            android:text="7"/>
+        <Button
+            android:layout_weight="1"
+            android:text="8"/>
+        <Button
+            android:layout_weight="1"
+            android:text="9"/>
+    </TableRow>
+
+    <Button
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:text="더하기"/>
+    <Button
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:text="빼기" />
+    <Button
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:text="곱하기"/>
+    <Button
+        android:layout_height="60dp"
+        android:layout_margin="5dp"
+        android:text="나누기"/>
+    <TextView
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:textColor="#FF0000"
+        android:textSize="30dp"
+        android:text="계산결과 : 83"/>
+</TableLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_naver">
+
+    <fragment
+        android:id="@+id/navigation_naver"
+        android:name="com.example.homework6_bottomnavi.ui.home.HomeFragment"
+        android:label="@string/title_naver"
+        tools:layout="@layout/fragment_naver" />
+
+    <fragment
+        android:id="@+id/navigation_daum"
+        android:name="com.example.homework6_bottomnavi.ui.dashboard.DaumFragment"
+        android:label="@string/title_daum"
+        tools:layout="@layout/fragment_daum" />
+
+    <fragment
+        android:id="@+id/navigation_google"
+        android:name="com.example.homework6_bottomnavi.ui.notifications.GoogleFragment"
+        android:label="@string/title_google"
+        tools:layout="@layout/fragment_google" />
+</navigation>
