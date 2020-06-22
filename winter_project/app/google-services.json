@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "404051111337",
+    "firebase_url": "https://winterproject-a149a.firebaseio.com",
+    "project_id": "winterproject-a149a",
+    "storage_bucket": "winterproject-a149a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404051111337:android:13868f25959170c460e8b8",
+        "android_client_info": {
+          "package_name": "com.example.winter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404051111337-vurkbm6ci4haajlo474nmrdj7uua7057.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.winter_project",
+            "certificate_hash": "0351451d245f4b2c67a591d5da852566b3452e3d"
+          }
+        },
+        {
+          "client_id": "404051111337-tf2ga1lqlj9321m21ldl2tr6a6t7dtf3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.winter_project",
+            "certificate_hash": "39e9947ef1a4cfc8bdc466e8438bbdb6083976db"
+          }
+        },
+        {
+          "client_id": "404051111337-odfv3ut9mvkpft4jjsa9d9tqk4borb58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhp20Aq4aIRwsv5vDJX2pUQh3MfNFDSIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404051111337-odfv3ut9mvkpft4jjsa9d9tqk4borb58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

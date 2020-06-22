@@ -170,7 +170,7 @@ public class hw11_2 extends AppCompatActivity {
                             current_time.setText(String.format(timeFormat.format(mPlayer.getCurrentPosition())));
                         }
                     });
-                    SystemClock.sleep(100);
+
                 }
 
                 runOnUiThread(new Runnable() {
